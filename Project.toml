@@ -1,0 +1,14 @@
+name = "CoNGRA2025_JuliaWorkshop"
+uuid = "2223305f-df85-483e-a957-5248b3d11be7"
+version = "0.1.0"
+
+[deps]
+BonitoBook = "b416d416-7a6e-4336-8c1a-1f8a8cd59518"
+WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
+Sunny = "2b4a2ac8-8f8b-43e8-abf4-3cb0c45e8736"
+
+[compat]
+BonitoBook = "0.1 - 0.5"
+WGLMakie = "0.3 - 0.9"
+Sunny = "0.7 - 0.9"
+julia = "1.11.5"
