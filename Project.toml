@@ -3,12 +3,14 @@ uuid = "2223305f-df85-483e-a957-5248b3d11be7"
 version = "0.1.0"
 
 [deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 BonitoBook = "b416d416-7a6e-4336-8c1a-1f8a8cd59518"
 WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 Sunny = "2b4a2ac8-8f8b-43e8-abf4-3cb0c45e8736"
 
 [compat]
+Random = "1.11"
 BonitoBook = "0.1 - 0.5"
 WGLMakie = "0.3 - 0.9"
 CairoMakie = "0.5 - 0.9"
